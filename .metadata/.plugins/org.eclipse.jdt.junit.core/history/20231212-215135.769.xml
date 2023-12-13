@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CreateAccountUsernameLong" project="project_webapp_testing" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="CreateAccountButton.tests.CreateAccountUsernameLong" time="2.246" displayname="CreateAccountUsernameLong" uniqueid="[engine:junit-vintage]/[runner:CreateAccountButton.tests.CreateAccountUsernameLong]">
+    <testcase name="testCreateAccountUsernameLong" classname="CreateAccountButton.tests.CreateAccountUsernameLong" time="2.246" displayname="testCreateAccountUsernameLong" uniqueid="[engine:junit-vintage]/[runner:CreateAccountButton.tests.CreateAccountUsernameLong]/[test:testCreateAccountUsernameLong(CreateAccountButton.tests.CreateAccountUsernameLong)]"/>
+  </testsuite>
+</testrun>

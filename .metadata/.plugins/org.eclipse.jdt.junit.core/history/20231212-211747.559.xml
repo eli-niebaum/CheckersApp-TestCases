@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CheckersAppRenderTest" project="project_webapp_testing" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="Render.tests.CheckersAppRenderTest" time="2.576" displayname="CheckersAppRenderTest" uniqueid="[engine:junit-vintage]/[runner:Render.tests.CheckersAppRenderTest]">
+    <testcase name="testCheckersAppRender" classname="Render.tests.CheckersAppRenderTest" time="2.576" displayname="testCheckersAppRender" uniqueid="[engine:junit-vintage]/[runner:Render.tests.CheckersAppRenderTest]/[test:testCheckersAppRender(Render.tests.CheckersAppRenderTest)]"/>
+  </testsuite>
+</testrun>

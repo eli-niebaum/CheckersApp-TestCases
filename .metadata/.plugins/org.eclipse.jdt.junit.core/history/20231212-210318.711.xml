@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CreateAccountTest" project="project_webapp_testing" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="CreateAccountButton.tests.CreateAccountTest" time="1.978" displayname="CreateAccountTest" uniqueid="[engine:junit-vintage]/[runner:CreateAccountButton.tests.CreateAccountTest]">
+    <testcase name="testCreateAccount" classname="CreateAccountButton.tests.CreateAccountTest" time="1.978" displayname="testCreateAccount" uniqueid="[engine:junit-vintage]/[runner:CreateAccountButton.tests.CreateAccountTest]/[test:testCreateAccount(CreateAccountButton.tests.CreateAccountTest)]"/>
+  </testsuite>
+</testrun>

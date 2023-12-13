@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CreateAccountPasswordLong" project="project_webapp_testing" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="CreateAccountButton.tests.CreateAccountPasswordLong" time="2.362" displayname="CreateAccountPasswordLong" uniqueid="[engine:junit-vintage]/[runner:CreateAccountButton.tests.CreateAccountPasswordLong]">
+    <testcase name="testCreateAccountPasswordLong" classname="CreateAccountButton.tests.CreateAccountPasswordLong" time="2.362" displayname="testCreateAccountPasswordLong" uniqueid="[engine:junit-vintage]/[runner:CreateAccountButton.tests.CreateAccountPasswordLong]/[test:testCreateAccountPasswordLong(CreateAccountButton.tests.CreateAccountPasswordLong)]"/>
+  </testsuite>
+</testrun>
